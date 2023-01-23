@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammed Sinan M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Angular framework and ML**
+- 🌱 I’m currently learning **Frontend framework Angular**
 
-- 📫 How to reach me **sinanmarayi8@gmail.com**
+- 📫 reach me **sinanmarayi8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
